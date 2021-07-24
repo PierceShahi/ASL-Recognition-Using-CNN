@@ -3,9 +3,9 @@ Major Project;
 Simple and easy to use
 
 # Software Specification
-Tensorflow
-Opencv
-Numpy
+1. Tensorflow
+2. Opencv
+3. Numpy
 
 # Process Explanation
 1. The first thing I did was, I created 26 gesture samples using OpenCV. For each gesture I captured 500 images which were 50x50 pixels. All theses images were in grayscale which is stored in the gestures/ folder. The pictures were flipped using flip_images.py.
