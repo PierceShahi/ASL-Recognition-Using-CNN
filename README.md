@@ -1,6 +1,6 @@
-[![Contributors]][contributors-url]
-[![Stargazers]][stars-url]
-[![Issues]][issues-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # ASL-Recognition-Using-CNN
@@ -27,8 +27,11 @@ Simple and easy to use
 
 # Thank You
 
+[contributors-shield]: https://img.shields.io/github/contributors/sureshfacet/trackerdog.svg?style=for-the-badge
 [contributors-url]: https://github.com/PierceShahi/ASL-Recognition-Using-CNN/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/sureshfacet/trackerdog.svg?style=for-the-badge
 [stars-url]: https://github.com/PierceShahi/ASL-Recognition-Using-CNN/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sureshfacet/trackerdog.svg?style=for-the-badge
 [issues-url]: https://github.com/PierceShahi/ASL-Recognition-Using-CNN/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pawan-kumar-thapa-222a25207/
